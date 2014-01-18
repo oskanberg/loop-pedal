@@ -1,0 +1,1 @@
+HTML5 & JQuery loop pedal. Uses Web Audio API library mattdiamond/Recorderjs.
